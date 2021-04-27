@@ -1,0 +1,12 @@
+div {
+  display: flex;
+  flex-direction: column;
+  max-width: 60vw;
+  height: 100vh;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+textarea {
+  min-height: 20vh;
+}
